@@ -2,6 +2,12 @@
 
 A utility to patch the Blockheads Server app on mac.
 
+### Disclaimer
+
+---
+
+macOS will try to block this app because it cannot be verified. This is due to me not having an Apple Developer Certificate.
+
 ### Usage
 
 ---
