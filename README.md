@@ -1,0 +1,23 @@
+# Blockheads Server Patcher
+
+A utility to patch the Blockheads Server app on mac.
+
+### Usage
+
+---
+
+Placeholder.
+
+### Getting Started
+
+---
+
+1. Install the [Blockheads Server App](https://apps.apple.com/us/app/blockheadsserver/id662633568?mt=12BlockheadsServer)
+2. Grab the [latest build](https://github.com/floofyplasma/bh-server-patcher/releases/latest).
+3. Run the Server Patcher, select your tweaks and press Run Target.
+
+### Contributing
+
+---
+
+Placeholder.
