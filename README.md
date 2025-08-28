@@ -6,7 +6,7 @@ A utility to patch the Blockheads Server app on mac.
 
 ---
 
-macOS will try to block this app because it cannot be verified. This is due to me not having an Apple Developer Certificate.
+macOS will try to block this app because it cannot be verified. This is due to me not having an Apple Developer Certificate. You can either open anyway by going through the security settings, or build from source.
 
 ### Usage
 
