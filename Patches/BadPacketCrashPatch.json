@@ -1,6 +1,6 @@
 {
   "name": "BadPacketCrash Patch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This tweak redirects stops the server from crashing if a user sends a bad packet.",
   "author": "FloofyPlasma"
 }

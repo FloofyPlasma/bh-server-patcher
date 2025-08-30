@@ -1,6 +1,6 @@
 {
   "name": "Frieghtcar Patch",
-  "version": "0.0.2",
-  "description": "This tweak redirects calls from Freightcars to Steam trains.",
+  "version": "1.0.0",
+  "description": "This tweak disables Freightcars entirely.\n\nNOTE: You can disable this tweak, and existing freightcars will return.",
   "author": "FloofyPlasma"
 }
